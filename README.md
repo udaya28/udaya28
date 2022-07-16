@@ -29,10 +29,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaya28&theme=default)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/udaya28/udaya28/blob/master/devcard.svg" width="400" alt="Udaya's Dev Card"/></a>
+<a href="https://app.daily.dev/udaya"><img src="devcard.svg" width="400" alt="Udaya's Dev Card"/></a>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-<!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 
 ![](contributions.png)
 <!-- https://github-contributions.vercel.app/ -->
