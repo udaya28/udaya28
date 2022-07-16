@@ -23,13 +23,13 @@
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaya28)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaya28&theme=dark)
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaya28&theme=default)
 
-<a href="https://app.daily.dev/udaya"><img src="devcard.svg" width="400" alt="Udaya's Dev Card"/></a>
+<a href="https://app.daily.dev/udaya"><img src="devcard.svg" width="280" alt="Udaya's Dev Card"/></a>
 
 
 ![](contributions.png)
