@@ -18,9 +18,9 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,express,materialui,nextjs,dynamodb,aws,bootstrap,firebase,git,vscode)
 <!-- https://github.com/tandpfun/skill-icons -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaya28&theme=default)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaya28&theme=dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaya28&theme=default)
 
 <a href="https://app.daily.dev/udaya"><img src="devcard.svg" width="280" alt="Udaya's Dev Card"/></a>
 
