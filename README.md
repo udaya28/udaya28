@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Udaya%20M&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20a%20Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62)
 <!-- https://github.com/kyechan99/capsule-render -->
-
+![](https://komarev.com/ghpvc/?username=udaya28&style=flat-square)
 - ✨ I am a Full Stack Web Developer
 - 🔭 I’m currently looking for internships on web development (frontend,backend) ...
 - 🌱 I’m currently learning next.js, DSA ...
