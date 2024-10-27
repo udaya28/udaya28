@@ -25,5 +25,4 @@
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-![](contributions.png)
 <!-- https://github-contributions.vercel.app/ -->
