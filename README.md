@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Udaya%20M&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I%20am%20a%20Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62)
 <!-- https://github.com/kyechan99/capsule-render -->
 ![](https://komarev.com/ghpvc/?username=udaya28&style=flat-square)
-- ✨ I am a Full Stack Web Developer
-- 🌱 I’m currently learning next.js, DSA ...
-- 💬 Ask me about Java Script,Type Script, React, Node JS, Type Script, serverless lambda and more ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/udaya28/), [Twitter](https://twitter.com/udaya28_)
-- 🎓 Education: BE-CSE 23-graduate
-- ⚡ Experience: 
-  - 2+ years of experience in web development
-  - I have developed multiple real-world projects and I  have worked on two internships. 
+- ✨ I am a Software Developer.
+- 💬 Ask me about Java Script, Type Script, React, Node JS, TypeScript, serverless lambda, and more ...
+- 📫 How to reach me: Github: https://github.com/udaya28 , Twitter: https://twitter.com/udaya28_
+- 🎓 Education: BE-CSE 
+- ⚡ Experience:
+  - 3+ years of experience in full-stack web development
+  - Currently working as Software Developer @Sensibull (India's Largest Options Trading Platform), Bangalore.
+  - I have developed multiple real-world projects and I have worked on two internships.
   - My first internship (4 months) was a full stack developer role (React, Material UI, TypeScript, Express, MySQL)
   - My second internship (6 months) was a backend developer role (JavaScript, TypeScrip, Serverless, AWS Lambda, DynamoDB)
 
